@@ -1,11 +1,10 @@
+import { render, screen } from "@testing-library/react";
+import App from "./App";
 import { describe, it, expect } from "vitest";
 
-describe("Something truthy and falsy", () => {
-    it("true to be true", () => {
-        expect(true).toBe(true);
-    });
-
-    it("false to be false", () => {
-        expect(false).toBe(false);
+describe("App component", () => {
+    it("renders heading correctly", () => {
+        render(<App />);
+        expect(screen.getByRole("heading").textContent).toMatch(/First Test/i);
     });
 });
