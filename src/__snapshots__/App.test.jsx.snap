@@ -1,0 +1,79 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App component > renders Magnificent Monk 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click here
+  </button>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+</div>
+`;
+
+exports[`App component > renders Magnificent Monke 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click here
+  </button>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+</div>
+`;
+
+exports[`App component > renders Magnificent Monkey 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click here
+  </button>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+</div>
+`;
+
+exports[`App component > renders Magnificent Monkeys 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click here
+  </button>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+</div>
+`;
+
+exports[`App component > renders Magnificent Monkq 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click here
+  </button>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+</div>
+`;
+
+exports[`App component > renders Magnificent Monkwys 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click here
+  </button>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+</div>
+`;
